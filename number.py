@@ -3,4 +3,4 @@ input1 = input("enter:")
 if input1 == "67":
     print("67 67 67 67 67")
 else:
-    print("nice number!67")
+    print("nice number!")
