@@ -9,3 +9,5 @@ elif input3 == "*":
     print (int(input1) * int(input2))
 elif input3 == "/":
     print (int(input1) / int(input2))
+else:
+    print ("Ungültiges Rechenzeichen")
